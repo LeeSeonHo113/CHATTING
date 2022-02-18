@@ -2,6 +2,9 @@
     "java.project.sourcePaths": ["src"],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
-        "lib/**/*.jar"
+        "lib/**/*.jar",
+        "c:\\green_workspace\\downloads\\gson-2.8.5.jar",
+        "c:\\green_workspace\\downloads\\lombok (1).jar",
+        "c:\\green_workspace\\downloads\\ojdbc8-21.1.0.0.jar"
     ]
 }
